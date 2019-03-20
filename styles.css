@@ -1,0 +1,22 @@
+.flashy{
+  font-style: italic;
+  font-family: "Arial Black", gadget, sans-serif;
+  color: red
+}
+
+img{
+  height: 250px;
+  width: 30%;
+}
+
+.best{
+    font-size: 25px;
+    font-family:sans-serif;
+    font-weight:bold;
+    color: #51DFD6;
+}
+
+.good{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #7D0000;
+}
